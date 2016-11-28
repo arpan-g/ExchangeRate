@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExchangeRate</string>
+    <string name="edit_message">Enter value</string>
+    <string name="button_get">Get</string>
+</resources>
